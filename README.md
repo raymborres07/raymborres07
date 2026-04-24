@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Raymond Borres ⚡</h1>
-<h3 align="center">Electrical Engineering Master's Student | Power Electronics Researcher | Embedded Systems & Astrophotography Enthusiast</h3>
+<h3 align="center">M.Eng. student in Electrical Engineering at Nagoya University</h3>
 
 <p align="center">
-M.Eng. in Electrical Engineering @ Nagoya University | Founder of KINTO | Building at the intersection of hardware, care, and culture
+I work on power electronics, embedded systems, and KINTO — a screenless wearable for family care and cultural rituals.
 </p>
 
 <p align="center">
@@ -18,44 +18,46 @@ M.Eng. in Electrical Engineering @ Nagoya University | Founder of KINTO | Buildi
 
 ## 👨‍🔬 About
 
-I am an Electrical Engineering Master's student at **Nagoya University** with strong interests in **power electronics, embedded systems, wearable technology, astrophotography, and hardware prototyping**.
+I'm an M.Eng. student in **Electrical Engineering at Nagoya University**.
 
-My work combines **engineering research, practical prototyping, and startup-building** — from power electronics simulation and PCB development to connected wearable systems like **KINTO**, a screenless cultural wearable focused on family care and meaningful interaction.
+Most of my work sits between **power electronics**, **embedded systems**, and hands-on prototyping. I like building things that move from simulation into something tangible, whether that's a converter model, a PCB, or a wearable prototype.
+
+Lately, a lot of that has gone into **KINTO**, a screenless wearable I’m developing around family care and cultural rituals. The idea is to make connection feel more present and intentional, without turning everything into another app notification.
 
 **Education**
 - M.Eng. in Electrical Engineering — Nagoya University
 - B.Eng. in Automotive Engineering / Electrical, Electronics and Information Engineering — Nagoya University
 
 **Focus Areas**
-- Power Electronics
-- Embedded Systems
-- Wearable Technology
-- PCB Design & Prototyping
-- Hardware-Software Integration
-- Astrophotography & Scientific Imaging
-- Startup Development
+- Power electronics — converter analysis, simulation, and hardware intuition
+- Embedded systems — firmware, microcontrollers, and device integration
+- Wearable technology — especially low-friction, screenless interactions
+- PCB design & prototyping
+- Hardware-software integration
+- Astrophotography and scientific imaging
+- Startup development through KINTO
 
 ---
 
 ## 🚀 Featured Projects
 
-- **buck-boost-converter-analyzer** — converter behavior analysis tool for power electronics learning and engineering exploration
-- **data-explorer-basic** — lightweight Python utility for practical data inspection and visualization
-- **file-organizer** — workflow automation tool for sorting and cleaning local files
-- **rays-media-downloader** — Python-based utility for media downloading workflows
-- **KINTO** — a screenless bidirectional wearable designed as a culturally meaningful family-care device
+- **buck-boost-converter-analyzer** — a small tool for exploring buck-boost converter behavior and building intuition
+- **data-explorer-basic** — a lightweight Python utility for quick CSV inspection and visualization
+- **file-organizer** — a script for sorting and cleaning local files when things get messy
+- **rays-media-downloader** — a personal Python utility for repetitive media-downloading workflows
+- **KINTO** — an early-stage screenless wearable for family care and culturally meaningful connection
 
 ---
 
 ## 🔭 Astrophotography Interests
 
-I am also interested in **astrophotography, image processing, and computational pipelines for astronomy-related imaging**.
+Outside core engineering work, I’m also interested in **astrophotography**, **image processing**, and **computational workflows for astronomy-related imaging**.
 
-Current interests include:
-- image stacking and calibration workflows
+Right now I’m especially interested in:
+- Image stacking and calibration workflows
 - FITS and RAW image preprocessing
-- night sky image enhancement
-- scientific imaging pipelines in Python
+- Night-sky image enhancement
+- Scientific imaging pipelines in Python
 
 ---
 
@@ -107,5 +109,5 @@ Current interests include:
 ---
 
 <p align="center">
-Thanks for visiting my profile — feel free to explore my projects and connect with me!
+If you're working on power electronics, wearables, or imaging, I'd be glad to connect.
 </p>
